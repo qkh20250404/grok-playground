@@ -1,8 +1,5 @@
 # Grok3 游乐场
 
-### 作者：技术爬爬虾
-[B站](https://space.bilibili.com/316183842)，[Youtube](https://www.youtube.com/@Tech_Shrimp)，抖音，公众号 全网同名。转载请注明作者。
-
 视频教程：[https://www.bilibili.com/video/BV1Zc9vYqE5c/](https://www.bilibili.com/video/BV1Zc9vYqE5c/)
 
 ## 项目简介
@@ -55,11 +52,6 @@
 4. Fork本项目，开启Github Action功能
 5. 部署，打开dash.cloudflare.com，查看部署后的worker
 6. 使用需要开魔法上网
-
-## 打赏
-#### 帮忙点点关注点点赞，谢谢啦~
-B站：[https://space.bilibili.com/316183842](https://space.bilibili.com/316183842)<br>
-Youtube: [https://www.youtube.com/@Tech_Shrimp](https://www.youtube.com/@Tech_Shrimp)
 
 ## 本地调试（Deno）
 
